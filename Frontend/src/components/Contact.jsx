@@ -31,6 +31,7 @@ const Contact = () => {
 
       if (response.ok) {
         alert('Message sent successfully!');
+        setFormData({ name: '', email: '', message: '' });
       } else {
         alert('Failed to send message.');
       }
