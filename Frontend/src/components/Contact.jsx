@@ -21,7 +21,7 @@ const Contact = () => {
     setLoading(true); // Set loading to true when the form is submitted
 
     try {
-      const response = await fetch('https://papun-portfolio-backend.onrender.com', {
+      const response = await fetch('https://papun-portfolio-backend.onrender.com/send-email', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
