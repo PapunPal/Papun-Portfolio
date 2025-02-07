@@ -13,60 +13,61 @@ const certificates = [
   {
     title: "Java Full Stack",
     provider: "Wipro",
-    description: "Completed an intensive Full Stack Web Development course covering HTML, CSS, JavaScript, Node.js, and React.js.",
+    description: "Completed a comprehensive full-stack development training.",
     image: CertificateImage,
     link: "https://cert.diceid.com/cid/9kW9SYvR3f?verify=true",
   },
   {
     title: "Full Stack Web Development",
-    provider: "Pinnacle labs",
-    description: "Mastered Java programming concepts including OOP, data structures, and algorithms.",
+    provider: "Pinnacle Labs",
+    description: "Learned  Html,Css,React.js,Bootstrap,Tailwind Css, Node.JS, Express.JS, Mongo DB.",
     image: Web,
     link: "https://pinnaclelabs.tech/certificate-verification/?rid=UEwvMjAyNC9PQ1RQMS8wODdQYXB1biBQYWw=",
   },
   {
     title: "Cybersecurity and Its Ten Domains",
     provider: "Coursera",
-    description: "Achieved mastery in React.js and Redux for scalable web applications.",
+    description: "Covered key cybersecurity principles and best practices.",
     image: cyber,
     link: "https://www.coursera.org/account/accomplishments/verify/EMW5EXKAEVWW",
   },
   {
     title: "Write Your First Novel",
     provider: "Coursera",
-    description: "Achieved mastery in React.js and Redux for scalable web applications.",
-    image:novel,
+    description: "Gained essential creative writing skills for novel writing.",
+    image: novel,
     link: "https://www.coursera.org/account/accomplishments/verify/JJF5YQ7WE9VJ",
   },
   {
     title: "Web Design for Everybody Capstone",
     provider: "Coursera",
-    description: "Achieved mastery in React.js and Redux for scalable web applications.",
+    description: "Showcased web design and UX skills in a capstone project.",
     image: web,
     link: "https://www.coursera.org/account/accomplishments/verify/JKL5WUCXWM8L",
   },
   {
     title: "Introduction to Personal Branding",
     provider: "Coursera",
-    description: "Achieved mastery in React.js and Redux for scalable web applications.",
-    image:personal,
+    description: "Learned strategies for creating and managing personal branding.",
+    image: personal,
     link: "https://www.coursera.org/account/accomplishments/verify/KU9K47J5G6MV",
   },
   {
     title: "Introduction to Front-End Development",
     provider: "Coursera",
-    description: "Achieved mastery in React.js and Redux for scalable web applications.",
+    description: "Mastered front-end essentials like HTML, CSS, and JavaScript.",
     image: meta,
     link: "https://www.coursera.org/account/accomplishments/verify/Q3WKBEQYWAH7",
   },
   {
     title: "The Language of Design: Form and Meaning",
     provider: "Coursera",
-    description: "Achieved mastery in React.js and Redux for scalable web applications.",
-    image:language,
+    description: "Explored visual design principles and communication techniques.",
+    image: language,
     link: "https://www.coursera.org/account/accomplishments/verify/VLU8FMFE8FWK",
   },
 ];
+
 
 const Certificates = () => {
   return (
