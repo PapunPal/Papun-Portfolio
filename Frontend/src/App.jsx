@@ -7,18 +7,20 @@ import Hero from './components/Hero'
 import Navbar from './components/Navbar'
 import Projects from './components/Projects'
 import Skill from './components/Skill'
+import Certificates from './components/Certificate'
 
 function App() {
 
   return (
     <div>
-        <Navbar />
-        <Hero />
-        <About />
-        <Skill />
-        <Projects />
-        <Contact />
-        <Footer />
+      <Navbar />
+      <Hero />
+      <About />
+      <Skill />
+      <Projects />
+      <Certificates />
+      <Contact />
+      <Footer />
     </div>
   )
 }
