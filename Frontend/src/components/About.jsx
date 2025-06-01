@@ -22,7 +22,7 @@ const About = () => {
           {/* Right Section: Content */}
           <div className="flex-1 text-gray-300">
             <p className="text-lg leading-relaxed mb-6">
-              Hello! My name is <span className="text-green-400 font-bold">Papun Pal</span>, and I’m from <span className="text-blue-400 font-bold">Garhbeta</span>, a small town in the <span className="font-bold text-blue-400">Paschim Medinipur</span> district of <span className="text-green-400"> West Bengal</span>.I was born on <span className="font-bold text-green-400">August 25, 2001</span>, in Bishnupur, Bankura. I am currently a <span className="font-bold text-blue-400">B.Tech 4th-year Computer Science and Engineering (CSE) student</span> at the Budge Budge Institute of Technology.
+              Hello! My name is <span className="text-green-400 font-bold">Papun pal</span>, and I’m from <span className="text-blue-400 font-bold">Garhbeta</span>, a small town in the <span className="font-bold text-blue-400">Paschim Medinipur</span> district of <span className="text-green-400"> West Bengal</span>.I was born on <span className="font-bold text-green-400">August 25, 2001</span>, in Bishnupur, Bankura. I am currently a <span className="font-bold text-blue-400">B.Tech 4th-year Computer Science and Engineering (CSE) student</span> at the Budge Budge Institute of Technology.
             </p>
             <p className="text-lg leading-relaxed mb-6">
               From a young age, I’ve been fascinated by computers, which inspired me to pursue a career in technology. I started my educational journey at <span className="text-blue-400">Bankati Primary School</span> and completed my high school at <span className="text-green-400">Shyamnagar Sri Ram Krishna Vidyamandir</span>.
